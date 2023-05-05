@@ -34,7 +34,7 @@
 		<folder>images</folder>
 		<folder>css</folder>
 		<folder>js</folder>
-	</media>
+	</media> 
 
 	<install>
 		<sql>
